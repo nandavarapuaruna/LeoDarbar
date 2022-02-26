@@ -1,0 +1,32 @@
+.chinese-staters-content-container{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.staters_heading h1{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 6rem;
+    font-size: 4rem;
+}
+
+.staters-images img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+}
+
+.staters-details ul{
+    font-size: 2rem;
+    list-style: none;
+
+}
+
+.staters-details h3{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    font-weight: 500;
+    color: red;
+}

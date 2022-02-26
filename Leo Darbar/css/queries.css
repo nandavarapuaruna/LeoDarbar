@@ -1,0 +1,224 @@
+/* Below 1200px */
+@media (max-width:75em){
+    .header-logo img {
+        width: 200px;
+        height: 200px;
+        border: 4px solid white;
+        border-radius: 100px;
+        background-color: black;
+        position: absolute;
+        left: 50rem;
+        top: -5rem;
+    }
+    
+    .cooking-image img{
+        width: 100%;
+    }
+    
+    .cooking-passion-content{
+        margin-top: 8rem;
+        padding-left: 6rem; 
+    }
+
+    .cooking-passion-content {
+        margin-top: 10rem;
+        padding-left: 6rem;
+    }
+    
+}
+
+
+/* Below 992px */
+@media (max-width:62em){
+
+    .header-logo img {
+        width: 175px;
+        height: 175px;
+        border: 4px solid white;
+        border-radius: 100px;
+        background-color: black;
+        position: absolute;
+        left: 40rem;
+        top: -3rem;
+    }
+
+    .cooking-image img{
+        margin-top: 8rem;
+    }
+    .cooking-content-container{
+        padding-top: 0rem;
+        padding-bottom: 8rem;
+    }
+
+    .card-content {
+        width: 30rem;
+        height: 40rem;
+    }
+}
+
+/* Below 768px */
+
+@media (max-width:48em){
+    .header-top {
+        background-color: black;
+        padding: 1rem 0rem;
+        margin-top: 3rem;
+        position: relative;
+    }
+
+    .left-nav-elements ul {
+        display: flex;
+        gap: 7rem;
+        font-size: 1.5rem;
+        list-style: none;
+        justify-content: left;
+        color: white;
+        padding-top: 1rem;
+    }
+
+    .right-nav-elements ul {
+        display: flex;
+        gap: 7rem;
+        font-size: 1.5rem;
+        list-style: none;
+        justify-content: right;
+        color: white;
+        padding-top: 1rem;
+    }
+
+    .header-logo img {
+        width: 150px;
+        height: 150px;
+        border: 4px solid white;
+        border-radius: 100px;
+        background-color: black;
+        position: absolute;
+        left: 30rem;
+        top: -3rem;
+    }
+
+    .contact-info {
+        text-align: right;
+        font-size: 2rem;
+    }
+
+    .number {
+        background-color: red;
+        padding: 0.6rem;
+        border-radius: 0.8rem;
+        font-weight: 500;
+        font-size: 2rem;
+        color: white;
+    }
+
+    .menu-details {
+        padding-top: 8rem;
+    }
+
+    .menu-heading {
+        text-align: center;
+        padding: 2rem 0 6rem 0;
+    }
+
+    .cooking-description {
+        font-size: 1.5rem;
+        padding: 2rem 0rem;
+    }
+
+    .cooking-passion-content {
+        margin-top: 9rem;
+        padding-left: 6rem;
+    }
+
+    .services-images {
+        margin: 2rem;
+        text-align: center;
+    }
+
+    .services-images img {
+        width: 40%;
+        background-color: #cdac0b;
+        border-radius: 1rem;
+    }
+
+    .card-content {
+        width: 22rem;
+        height: 28rem;
+    }
+
+    .form-details-card p {
+        font-size: 1.5rem;
+    }
+
+    .form-details label {
+        font-size: 2rem;
+        margin-top: 1rem;
+    }
+
+    .Image {
+        padding-left: 0;
+        padding-right: 0px;
+        margin-top: 10rem;
+    }
+   
+}
+
+/* Below 576px */
+
+@media(max-width:36em){
+    .header-logo img {
+        width: 100px;
+        height: 100px;
+        border: 3px solid white;
+        border-radius: 100px;
+        background-color: black;
+        position: absolute;
+        left: 24rem;
+        top: -2rem;
+    }
+
+    .cooking-image img {
+        width: 80%;
+        margin-top: 8rem;
+        margin-left: 5rem;
+    }
+
+    .services-images img {
+        width: 35%;
+        background-color: #cdac0b;
+        border-radius: 1rem;
+    }
+
+    .special-dishes-heading h1{
+        font-size: 3rem;
+    }
+
+    .card-content {
+        width: 15rem;
+        height: 20rem;
+    }
+
+    .card-body h2{
+        font-size: 1.3rem;
+    }
+
+    .price{
+        font-size: 1.5rem;
+    }
+    
+    .amount{
+        font-size: 1.8rem;
+        color: red;
+    }
+
+    .Image {
+        padding-left: 10rem;
+        padding-right: 0px;
+        margin-top: 2rem;
+    }
+
+    .Image img {
+        width: 75%;
+    }
+    
+}

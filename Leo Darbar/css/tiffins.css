@@ -1,0 +1,33 @@
+.tiffins-content-container{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.tiffins-heading h1{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 6rem;
+    font-size: 4rem;
+}
+
+.tiffins-images img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+}
+.tiffins h3{
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+    color: red;
+
+}
+
+.tiffins ul{
+    font-size: 2rem;
+    list-style: none;
+}
+
+
